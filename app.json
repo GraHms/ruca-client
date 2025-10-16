@@ -3,6 +3,8 @@
     "name": "ruca",
     "slug": "ruca",
     "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "runtimeVersion": { "policy": "sdkVersion" },
     "orientation": "portrait",
     "scheme": "ruca",
     "userInterfaceStyle": "light",
