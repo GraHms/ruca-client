@@ -1,0 +1,91 @@
+{
+  "auth": {
+    "title": "Sign in to Ruca",
+    "subtitle": "Request safe rides across Mozambique",
+    "identifierLabel": "Email or phone",
+    "identifierPlaceholder": "e.g. 84 123 4567",
+    "requestCode": "Send code",
+    "codeLabel": "OTP code",
+    "codePlaceholder": "123456",
+    "login": "Confirm login"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "cash": "Cash"
+  },
+  "home": {
+    "greeting": "Hi, {{name}}",
+    "pickup": "My location",
+    "dropoff": "Where are we going?",
+    "favorites": "Shortcuts",
+    "home": "Home",
+    "work": "Work",
+    "driverToggle": "Driver mode",
+    "request": "Request Ruca",
+    "driverMode": "Driver"
+  },
+  "search": {
+    "title": "Choose locations",
+    "pickup": "Pickup point",
+    "dropoff": "Dropoff",
+    "results": "Results",
+    "empty": "No results. Try another search."
+  },
+  "confirm": {
+    "title": "Confirm ride",
+    "distance": "Distance",
+    "duration": "Duration",
+    "fare": "Estimated fare",
+    "request": "Request Ruca",
+    "change": "Change destination"
+  },
+  "waiting": {
+    "title": "Looking for a driver",
+    "subtitle": "We're finding someone for your trip",
+    "cancel": "Cancel request",
+    "eta": "Driver arriving in {{minutes}} min"
+  },
+  "trip": {
+    "title": "Trip in progress",
+    "driver": "Driver",
+    "vehicle": "Vehicle",
+    "call": "Call",
+    "message": "Message",
+    "complete": "Complete trip",
+    "arriving": "Heading to destination"
+  },
+  "payments": {
+    "title": "Choose payment",
+    "mpesa": "M-Pesa",
+    "emola": "e-Mola",
+    "card": "Card",
+    "success": "Payment successful",
+    "failed": "Payment failed",
+    "processing": "Processing payment..."
+  },
+  "profile": {
+    "title": "Profile",
+    "language": "Language",
+    "logout": "Log out",
+    "driverMode": "Driver mode",
+    "defaultPayment": "Preferred payment",
+    "phone": "Phone",
+    "name": "Name"
+  },
+  "driver": {
+    "title": "Driver Mode",
+    "available": "Available",
+    "earnings": "Earnings today",
+    "accept": "Accept",
+    "decline": "Decline",
+    "noRequests": "No requests right now"
+  },
+  "trips": {
+    "title": "History",
+    "empty": "No trips yet."
+  }
+}

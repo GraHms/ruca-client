@@ -1,0 +1,91 @@
+{
+  "auth": {
+    "title": "Entrar na Ruca",
+    "subtitle": "Solicite viagens rápidas e seguras em Moçambique",
+    "identifierLabel": "Email ou número",
+    "identifierPlaceholder": "ex: 84 123 4567",
+    "requestCode": "Enviar código",
+    "codeLabel": "Código OTP",
+    "codePlaceholder": "123456",
+    "login": "Confirmar entrada"
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "loading": "A carregar...",
+    "error": "Algo correu mal",
+    "retry": "Tentar novamente",
+    "cash": "Dinheiro"
+  },
+  "home": {
+    "greeting": "Olá, {{name}}",
+    "pickup": "Minha localização",
+    "dropoff": "Para onde vamos?",
+    "favorites": "Atalhos",
+    "home": "Casa",
+    "work": "Trabalho",
+    "driverToggle": "Modo motorista",
+    "request": "Pedir Ruca",
+    "driverMode": "Motorista"
+  },
+  "search": {
+    "title": "Escolher locais",
+    "pickup": "Local de partida",
+    "dropoff": "Destino",
+    "results": "Resultados",
+    "empty": "Sem resultados. Tente outro termo."
+  },
+  "confirm": {
+    "title": "Confirmar viagem",
+    "distance": "Distância",
+    "duration": "Duração",
+    "fare": "Tarifa estimada",
+    "request": "Pedir Ruca",
+    "change": "Alterar destino"
+  },
+  "waiting": {
+    "title": "A procurar motorista",
+    "subtitle": "Estamos a encontrar alguém para a sua viagem",
+    "cancel": "Cancelar pedido",
+    "eta": "Motorista chega em {{minutes}} min"
+  },
+  "trip": {
+    "title": "Viagem em curso",
+    "driver": "Motorista",
+    "vehicle": "Viatura",
+    "call": "Ligar",
+    "message": "Mensagem",
+    "complete": "Concluir viagem",
+    "arriving": "A caminho do destino"
+  },
+  "payments": {
+    "title": "Escolher pagamento",
+    "mpesa": "M-Pesa",
+    "emola": "e-Mola",
+    "card": "Cartão",
+    "success": "Pagamento concluído",
+    "failed": "Pagamento falhou",
+    "processing": "A processar pagamento..."
+  },
+  "profile": {
+    "title": "Perfil",
+    "language": "Idioma",
+    "logout": "Terminar sessão",
+    "driverMode": "Modo motorista",
+    "defaultPayment": "Pagamento preferido",
+    "phone": "Telefone",
+    "name": "Nome"
+  },
+  "driver": {
+    "title": "Modo Motorista",
+    "available": "Disponível",
+    "earnings": "Ganhos hoje",
+    "accept": "Aceitar",
+    "decline": "Recusar",
+    "noRequests": "Sem pedidos no momento"
+  },
+  "trips": {
+    "title": "Histórico",
+    "empty": "Ainda sem viagens."
+  }
+}

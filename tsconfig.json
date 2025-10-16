@@ -1,0 +1,22 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "allowJs": false,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/components/*": ["app/src/components/*"],
+      "@/screens/*": ["app/src/screens/*"],
+      "@/navigation/*": ["app/src/navigation/*"],
+      "@/state/*": ["app/src/state/*"],
+      "@/services/*": ["app/src/services/*"],
+      "@/i18n/*": ["app/src/i18n/*"],
+      "@/types/*": ["app/src/types/*"],
+      "@/utils/*": ["app/src/utils/*"]
+    }
+  },
+  "include": ["app"]
+}
