@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "ruca",
+    "slug": "ruca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "ruca",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f766e"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "mz.ruca.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single-page"
+    },
+    "plugins": [
+      "nativewind/babel"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      },
+      "googleMapsApiKey": null
+    }
+  }
+}
